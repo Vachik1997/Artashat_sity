@@ -6,3 +6,10 @@ h1{
 body{
 	background-color: green;
 }
+
+p{
+	font-size: 30px;
+	text-align: center;
+	border: 5px dashed #20bcd5;
+	padding: 15px;
+}
